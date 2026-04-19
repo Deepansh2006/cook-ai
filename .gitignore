@@ -4,5 +4,6 @@ __pycache__/
 .env
 
 ml-engine/data/
+backend/db/
 *.npy
 *.csv
