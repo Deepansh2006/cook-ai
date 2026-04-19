@@ -1,0 +1,8 @@
+venv311/
+__pycache__/
+*.pyc
+.env
+
+ml-engine/data/
+*.npy
+*.csv
